@@ -87,7 +87,7 @@ author:
   employer         : "https://depts.washington.edu/mtnhydr/"
   pubmed           : 
   googlescholar    : 
-  email            : "dlhogan@uw.edu
+  email            : "dlhogan@uw.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -195,7 +195,7 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
+      values:
       layout: single
       author_profile: true
       read_time: true
@@ -206,14 +206,14 @@ defaults:
   - scope:
       path: ""
       type: pages
-    values:
+      values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
       type: teaching
-    values:
+      values:
       layout: single
       author_profile: true
       share: true
@@ -222,7 +222,7 @@ defaults:
   - scope:
       path: ""
       type: publications
-    values:
+      values:
       layout: single
       author_profile: true
       share: true
@@ -231,7 +231,7 @@ defaults:
   - scope:
       path: ""
       type: portfolio
-    values:
+      values:
       layout: single
       author_profile: true
       share: true
@@ -240,7 +240,7 @@ defaults:
   - scope:
       path: ""
       type: talks
-    values:
+      values:
       layout: talk
       author_profile: true
       share: true
