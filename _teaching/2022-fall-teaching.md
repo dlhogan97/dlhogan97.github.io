@@ -1,7 +1,7 @@
 ---
 title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate/Graduate course"
+type: "Data Analysis in Water Science"
 permalink: /teaching/2022-Data-Analysis-in-Water-Science
 venue: "University of Washington, Civil and Environmental Engineering"
 date: 2022-09-27
