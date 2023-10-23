@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "My personal website to host project progress, publications, presentations, and a PNW weather blog."
 excerpt: "About me"
 author_profile: true
 redirect_from: 

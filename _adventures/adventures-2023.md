@@ -1,7 +1,7 @@
 ---
 title: "2023 Adventures"
 excerpt: "A 1<br/><img src='/images/copper-creek.jpg'>"
-collection: adventures
+collection: portfolio
 ---
 
 ### A brief description with some photos of some efforts. Winter blog to come!
