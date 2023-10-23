@@ -14,3 +14,5 @@ collection: portfolio
 | [Gothic Mountain Tour](#)    | Skimo Race           | An awesome first experience in skimo and won the rec category!                          |
 | [Why-not-Chee](#)            |  Gravel Race         | 78 mile slug-fest out of Lake Wynochee. A grind of a day...                             |
 | [Bon Jon Pass out](#)        |  Gravel Race         | 84 mile wet and wild one out of Quilcene. A bit cold for 4500 ft.                       |
+
+"<br/><img src='../images/copper-creek.jpg'>"
