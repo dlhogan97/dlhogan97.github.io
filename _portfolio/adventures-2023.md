@@ -1,6 +1,6 @@
 ---
 title: "2023 Adventures"
-excerpt: "A 1<br/><img src='../images/copper-creek.jpg'>"
+excerpt: "<br/><img src='/images/copper-creek.jpg'>"
 collection: portfolio
 ---
 
