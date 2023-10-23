@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Danny Hogan"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg" 
   bio              : "I'm currenty a 3rd year Ph.D. student at the Universtiy of Washington working in the Mountain Hydrology research group working under Professor Jessica Lundquist. "
   location         : "Seattle, WA"
-  employer         : "https://depts.washington.edu/mtnhydr/"
+  employer         : University of Washington
   pubmed           : 
   googlescholar    : 
   email            : "dlhogan@uw.edu"
   researchgate     :  
-  uri              :
+  uri              : "https://depts.washington.edu/mtnhydr/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  adventures:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -191,11 +191,11 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # __wxblog
   - scope:
       path: ""
       type: posts
-      values:
+    values:
       layout: single
       author_profile: true
       read_time: true
@@ -206,14 +206,14 @@ defaults:
   - scope:
       path: ""
       type: pages
-      values:
+    values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
       type: teaching
-      values:
+    values:
       layout: single
       author_profile: true
       share: true
@@ -222,16 +222,16 @@ defaults:
   - scope:
       path: ""
       type: publications
-      values:
+    values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _adventures
   - scope:
       path: ""
-      type: portfolio
-      values:
+      type: adventures
+    values:
       layout: single
       author_profile: true
       share: true
@@ -240,7 +240,7 @@ defaults:
   - scope:
       path: ""
       type: talks
-      values:
+    values:
       layout: talk
       author_profile: true
       share: true
