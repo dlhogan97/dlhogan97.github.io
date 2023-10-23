@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Danny Hogan"
 title_separator          : "-"
 name                     : &name "Danny Hogan"
-description              : &description "personal description"
+description              : &description "My personal website to host project progress, publications, presentations, and a PNW weather blog."
 url                      : https://dlhogan97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dlhogan97/dlhogan97.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Danny Hogan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I'm currenty a 3rd year Ph.D. student at the Universtiy of Washington working in the Mountain Hydrology research group working under Professor Jessica Lundquist. "
   location         : "Seattle, WA"
-  employer         :
+  employer         : "https://depts.washington.edu/mtnhydr/"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "dlhogan@uw.edu
   researchgate     :  
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-0553-6783"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@uwmtnhydr"
   wikipedia        :
 
 
