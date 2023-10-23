@@ -11,7 +11,7 @@ title                    : "Danny Hogan"
 title_separator          : "-"
 name                     : &name "Danny Hogan"
 description              : &description "My personal website to host project progress, publications, presentations, and a PNW weather blog."
-url                      : https://dlhogan97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dlhogan97.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dlhogan97/dlhogan97.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Danny Hogan"
   avatar           : "bio-photo.jpg" 
-  bio              : "I'm currenty a 3rd year Ph.D. student at the Universtiy of Washington working in the Mountain Hydrology research group working under Professor Jessica Lundquist. "
+  bio              : "I'm currenty a 3rd year Ph.D. student at the Universtiy of Washington working in the Mountain Hydrology research group working under Professor Jessica Lundquist."
   location         : "Seattle, WA"
   employer         : "University of Washington"
   pubmed           : 
   googlescholar    : 
   email            : "dlhogan@uw.edu"
-  researchgate     :  
-  uri              : "https://depts.washington.edu/mtnhydr/"
+  researchgate     : "https://depts.washington.edu/mtnhydr/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
