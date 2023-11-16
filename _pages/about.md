@@ -39,7 +39,7 @@ Projects
 
 <p float="left">
   <img src="../images/sun_dog.JPG " width="300" height="200" />
-  <img src="../images/chained_hoar.JPG width="300" height="200" /> 
+  <img src="../images/chained_hoar.JPG" width="300" height="200" /> 
 </p>
 
 Current and Future Work
