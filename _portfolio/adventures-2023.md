@@ -1,5 +1,5 @@
 ---
-title: "2023 Adventures"
+title: "2023 Races and Long Days"
 excerpt: "<br/><img src='/images/copper-creek.JPG'>"
 collection: portfolio
 ---
@@ -13,6 +13,6 @@ collection: portfolio
 | [Backcountry Rise 50k](#)    | Trail Race           | Mount Margaret backcountry with insane Mt. St. Helens views. Bit smokay.                |
 | [Why-not-Chee](#)            |  Gravel Race         | 78 mile slug-fest out of Lake Wynochee. A grind of a day...                             |
 | [Bon Jon Pass out](#)        |  Gravel Race         | 84 mile wet and wild one out of Quilcene. A bit cold for 4500 ft.                       |
-| [Gothic Mountain Tour](#)    | Skimo Race           | An awesome first experience in skimo and won the rec category!                          |
+| [Gothic Mountain Tour](#)    | Skimo Race           | An awesome first experience in skimo and happy to take advantage of such a cool race when living out in Gothic!                          |
 
-<br/><img src='../images/copper-creek.JPG'>
+<br/><img src='/images/copper-creek.JPG'>

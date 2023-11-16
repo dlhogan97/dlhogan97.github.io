@@ -22,14 +22,11 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 
-## Tips and hints
+## Links I've Found Helpful:
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* [Create a new repository from a subfolder of an old repo, preserving git history](https://stackoverflow.com/questions/359424/detach-move-subdirectory-into-separate-git-repository)
+* [Tips for writing a journal article cover letter](https://blog.wordvice.com/journal-submission-cover-letter/#:~:text=Journal%20Submissions%20Cover%20Letter&text=Dear%20Dr.%2FMr.%2F,person's%20name%20is%20best%2C%20however.)
+
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
