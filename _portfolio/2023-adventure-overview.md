@@ -1,6 +1,6 @@
 ---
 title: "2023 Races and Long Days"
-excerpt: "<br/><img src='/images/adventures/copper-creek.JPG'>"
+excerpt: "<br/><img src='../images/adventures/copper-creek.JPG'>"
 collection: portfolio
 ---
 
@@ -15,4 +15,4 @@ collection: portfolio
 | [Bon Jon Pass out](#)        |  Gravel Race         | 84 mile wet and wild one out of Quilcene. A bit cold for 4500 ft.                       |
 | [Gothic Mountain Tour](#)    | Skimo Race           | An awesome first experience in skimo and happy to take advantage of such a cool race when living out in Gothic!                          |
 
-<br/><img src='/images/adventures/copper-creek.JPG'>
+<br/><img src='../images/adventures/copper-creek.JPG'>

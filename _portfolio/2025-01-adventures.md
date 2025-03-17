@@ -1,6 +1,5 @@
 ---
 title: "January 2025 Outdoor Adventure Overview"
-# excerpt: "<br/><img src='/images/adventures/copper-creek.JPG'>"
 collection: portfolio
 ---
 Return from honeymoon, AIARE PRO Level 1 course, ski patrolling, and skijoring!

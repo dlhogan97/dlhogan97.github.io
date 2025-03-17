@@ -1,9 +1,9 @@
 ---
 title: "March 2025 Outdoor Adventure Overview"
-# excerpt: "<br/><img src='/images/adventures/copper-creek.JPG'>"
 collection: portfolio
 ---
-A month marked by hut trip skiing, training for Boston, and plenty of work.
+A month marked by hut trip skiing, training for Boston, and plenty of work in prep for my General.
+
 ## Chair Peak Circumnav (edition 3) with Cupcake
 March started off warm and wet, but snow began falling again in the mountains as temperatures got cool enough. A relatively stable upper snowpack meant we could get out after it!
 
