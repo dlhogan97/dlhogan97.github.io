@@ -2,6 +2,7 @@
 title: "October 2024 Outdoor Adventure Overview"
 collection: portfolio
 ---
+Wonderful larch trip in the Chiwaukum Mountains!
 
 ## Larch Backpacking Trip, Chiwaukum Mountains, WA
 Escaping Larch Madness with friends!

@@ -2,6 +2,7 @@
 title: "July 2024 Outdoor Adventure Overview"
 collection: portfolio
 ---
+Getting married and running marathons.
 
 ## Salt Spring Island, BC
 

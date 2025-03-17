@@ -2,6 +2,8 @@
 title: "March 2024 Outdoor Adventure Overview"
 collection: portfolio
 ---
+Skiing and hut trips in the PNW.
+
 ## Vertfest
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10876604246" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>

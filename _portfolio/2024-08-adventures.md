@@ -2,6 +2,7 @@
 title: "August 2024 Outdoor Adventure Overview"
 collection: portfolio
 ---
+Summer vibes with backpacking and trail running.
 
 ## Northwest Mount Adams Backpack/Trail Run
 High Camp and Muddy Meadows with trail runs. Special spot on the Norwest side of Pahto.

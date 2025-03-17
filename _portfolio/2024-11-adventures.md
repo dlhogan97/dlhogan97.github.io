@@ -2,6 +2,7 @@
 title: "November 2024 Outdoor Adventure Overview"
 collection: portfolio
 ---
+Down to CA for a visit and first ski turns of the winter after a good storm cycle.
 
 ## Bear Valley and Oregon Skiing
 Opening day at Bear along with plenty of nordic skiing to brush off the cobwebs.

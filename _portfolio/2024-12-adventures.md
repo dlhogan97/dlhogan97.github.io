@@ -1,8 +1,8 @@
 ---
 title: "December 2024 Outdoor Adventure Overview"
-excerpt: "<br/><img src='/images/adventures/copper-creek.JPG'>"
 collection: portfolio
 ---
+Ski patrolling and heading to Chile/Argentina with a fastpack in Torres del Paine!
 
 ## Ski Patrolling, Mt. Rainier National Park, WA
 First weekend of patrolling!

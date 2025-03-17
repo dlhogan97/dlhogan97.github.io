@@ -2,6 +2,7 @@
 title: "September 2024 Outdoor Adventure Overview"
 collection: portfolio
 ---
+Lots of adventuring in the Cascades!
 
 ## Section-J, Pacific Crest Trail, WA
 Amazing section J trip. Hard but oh so worth it!

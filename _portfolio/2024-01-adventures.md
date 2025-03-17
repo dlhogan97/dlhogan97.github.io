@@ -2,6 +2,7 @@
 title: "January 2024 Outdoor Adventure Overview"
 collection: portfolio
 ---
+Taking advantage of some cold weather during an El Nino winter.
 
 ## Mt. Bachelor Hanging
 
