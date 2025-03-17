@@ -15,7 +15,7 @@ Hi, I'm Danny Hogan. I'm a graduate student at the University of Washington work
 <p float="left">
   <img src="../images/denali_overcoat_peak.JPG" width="300" height="200" />
   <img src="../images/disco_cloud_deck.JPG" width="300" height="200" /> 
-  <img src="../images/mt_rainier_perfect.JPG" width="300" height="200" /> 
+  <img src="../images/mt_rainier_perfect.jpg" width="300" height="200" /> 
   <img src="../images/entering_rmbl.JPG" width="300" height="200" /> 
 </p>
 
