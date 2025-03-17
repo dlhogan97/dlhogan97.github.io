@@ -1,5 +1,8 @@
-# October 2024 Outdoor Adventure Overview
+---
+title: "October 2024 Outdoor Adventure Overview"
+excerpt: "<br/><img src='/images/adventures/copper-creek.JPG'>"
+collection: portfolio
+---
 
 ## Larch Backpacking Trip, Chiwaukum Mountains, WA
-
-## Aurora viewing, Seattle, WA
+Escaping Larch Madness with friends!

@@ -1,4 +1,8 @@
-# July 2024 Outdoor Adventure Overview
+---
+title: "July 2024 Outdoor Adventure Overview"
+excerpt: "<br/><img src='/images/adventures/copper-creek.JPG'>"
+collection: portfolio
+---
 
 ## Salt Spring Island, BC
 
