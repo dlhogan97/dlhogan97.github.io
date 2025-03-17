@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Impact of High Wind Events on Seasonal Sublimation in the East River, CO
 collection: talks
-type: "Conference Poster"
+type: "Conference"
 permalink: /talks/2022-06-30-mtn-met
 venue: "Western Snow Conference"
 date: 2024-04-16

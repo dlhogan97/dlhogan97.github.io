@@ -1,5 +1,5 @@
 ---
-title: "Seasonal Influences on "
+title: "Seasonal Influences on Hydrologic Anomalies in Headwater Catchments"
 collection: talks
 type: "General Exam"
 permalink: /talks/2025-03-10
