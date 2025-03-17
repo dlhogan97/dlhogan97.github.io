@@ -10,11 +10,13 @@ redirect_from:
 
 About Me
 ======
-Hi, I'm Danny Hogan. I'm a graduate student at the University of Washington working in the [Mountain Hydrology Research Group](https://depts.washington.edu/mtnhydr/) studying the influences mountain meteorology has on mountain snowpacks and, in turn, on water resources within the Upper Colorado River Basin. I hail from the Bay Area, did my undergraduate degree in envrionmental engineering at Princeton University, rowed competitively in college, worked for 2-years after graduating, and moved up to Washington. I'm now fortunate enough to get to explore the amazing landscapes, weather, and ecosystems we have up here in the PNW with my wife and dog, Denali!
+Hi, I'm Danny Hogan. I'm a graduate student at the University of Washington working in the [Mountain Hydrology Research Group](https://depts.washington.edu/mtnhydr/) studying the influences mountain meteorology has on mountain snowpacks and, in turn, on water resources within the Upper Colorado River Basin. I hail from the Bay Area, did my undergraduate degree in envrionmental engineering at Princeton University, rowed competitively in college, worked for 2-years after graduating, and moved up to Washington. I'm now fortunate enough to get to explore the amazing landscapes, weather, and ecosystems we have up here in the PNW with my wife and dog!
 
 <p float="left">
-  <img src="/../images/denali_overcoat_peak.JPG" width="300" height="200" />
+  <img src="../images/denali_overcoat_peak.JPG" width="300" height="200" />
   <img src="../images/disco_cloud_deck.JPG" width="300" height="200" /> 
+  <img src="../images/mt_rainier_perfect.JPG" width="300" height="200" /> 
+  <img src="../images/entering_rmbl.JPG" width="300" height="200" /> 
 </p>
 
 Academic and Personal Interests
